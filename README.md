@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
