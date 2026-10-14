@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
