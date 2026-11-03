@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -76,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
