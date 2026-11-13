@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Array
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -71,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/laksh3jain/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
